@@ -11,12 +11,12 @@ const cli = cac()
 
 const names = [
   {
-    name: '立花 瀧',
+    name: '作为',
     romaji: 'Tachibana taki',
     image: path.join(__dirname, 'images/taki.png')
   },
   {
-    name: '宮水 三葉',
+    name: 'xx~~',
     romaji: 'Miyamizu Mitsuha',
     image: path.join(__dirname, 'images/mitsuha.png')
   }
